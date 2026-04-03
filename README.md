@@ -16,7 +16,6 @@ Linux系统镜像 Ubuntu系统镜像 乌班图Linux系统镜像
 
 链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c --来自百度网盘超级会员v3的分享
 
-这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
 
 
 
